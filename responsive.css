@@ -1,0 +1,109 @@
+@media (max-width:768px){
+    .hello{
+       padding-top:25vh;
+       font-size: 20px;
+       
+   }
+   .iam{
+       /* padding-top: 30vh; */
+       padding: 3% 0%;
+        font-size: 6vw; 
+       text-align: center;
+
+   }
+   .programmer{
+       
+        font-size: 6.4vw; 
+        text-align: center;
+   }
+   .name{
+       padding:3% 0%;
+       font-size:4.5vw;
+   }
+   
+   .intro-social{
+       display: block;
+        position: absolute; 
+        /* width: 100vw;  */
+        padding-top:5%;
+        padding-left: 25vw; 
+      /* margin-top:5%;*/
+       bottom: 4vh; 
+       font-size: 3vw;
+   }
+   .intro-social li{
+       display: inline-block;
+       /* margin:0px 1vw; */
+       margin-right: 3vw;
+       /* padding:0px; */
+       /* margin-bottom: 4%; */
+   }
+   
+   .intro-social a .fa{
+          font-size: 6vw;
+   } 
+
+   
+   .exploreButton{
+       margin:10vh 0%;
+       /* bottom: 20vh; */
+       padding:2.5% 6%;
+       /* margin:5% 0%; */
+       
+   }
+}
+/* About *//* About *//* About *//* About *//* About *//* About */
+@media (max-width:450px){
+  
+   .profileImg{
+       width:150px;
+       height:150px;
+       
+       
+   }
+   .introduction{
+       font-size:17px;
+   }
+   .grey{
+       font-size: 15px;
+   }
+   .copyright{
+       font-size: 12px;
+   }
+
+}
+/* contact *//* contact *//* contact *//* contact */
+@media(max-width:450px){
+   input[type=text],input[type=email]{
+       margin-left: 0;
+       margin-right: 0;
+       margin-bottom: 2vh;
+       width:100%
+   }
+   .Submit{
+       margin-left: 0;
+       margin-right: 0;
+       width: 100%;
+       margin-bottom:2vh ;
+   }
+   .feedback{
+       font-size: 7.5vw;
+   }
+   .wanna{
+       font-size: 4vw;
+   }
+
+
+  
+}
+
+@media(max-width:600px){
+   .carousel-inner{
+       width:80%;
+       margin:auto;
+   }
+
+   .tech-stack-list{
+       width:100%;
+   }
+}
